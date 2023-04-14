@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 A rails app that allows users to fetch a random message sent from the database.
 
-- You can find the front-end app of this project using this [link](https://github.com/AckonSamuel/hello-react-front-end/tree/develop)
+- You can find the front-end app of this project using this [link](https://github.com/AckonSamuel/hello-react-front-end/tree/connect)
 
 ## 🛠 Built With <a name="built-with"></a>
 
