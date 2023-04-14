@@ -139,8 +139,8 @@ http://127.0.0.1:8080/api-docs/index.html
 
 ## 👥 Author <a name="authors"></a>
 
-- GitHub: [@yonas44](https://github.com/AckonSamuel)
-- LinkedIn: [Yonas Tesfu](https://linkedin.com/in/samuel-yaw-ackon)
+- GitHub: [@AckonSamuel](https://github.com/AckonSamuel)
+- LinkedIn: [Ackon Samuel](https://linkedin.com/in/samuel-yaw-ackon)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
